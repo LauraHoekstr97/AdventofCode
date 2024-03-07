@@ -28,7 +28,7 @@ for line in list_line:
     x = int(find_two_digit_number(line))
     sum_1 += x
 
-print(f"Answer puzzle 1: {sum_1}")
+print(f"Answer part 1: {sum_1}")
 
 #Answer part 2
 sum_2 = 0
@@ -46,6 +46,6 @@ for line in list_line: # Chaning all numbers that are written out to digits.
     x = int(find_two_digit_number(new_line))
     sum_2 += x
 
-print(f"Answer puzzle 2: {sum_2}")
+print(f"Answer part 2: {sum_2}")
 
 
