@@ -26,7 +26,7 @@ Of course, the actual engine schematic is much larger. What is the sum of all of
 
 
 ## Part 2 
-*Be ware!*: Code solution in part2.py. This is mostly the same code as main.py, however some editing is done to solve this specific puzzle.
+*Be ware!*: Code solution not available (yet)
 
 **Goal**: Find all \* symbols that are adjacent to exactly two part numbers. Then multiply the two numbers adjacent to this \*. Then add all these multiplications up.
 
