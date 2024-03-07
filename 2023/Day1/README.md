@@ -1,7 +1,7 @@
 # Day 1
 
 ## Part 1
-Goals: extracting the first digit and the last digit (in that order), from every row (= string) to form a single two-digit number. \
+Goal: extracting the first digit and the last digit (in that order), from every row (= string) to form a single two-digit number. \
 Then add up all the two-digit numbers. 
 
 ## Part 2
