@@ -44,8 +44,8 @@ def find_possible_subgames(cleaned_line, green_count, blue_count, red_count):
     return possible_game
 
 # Answer part 1
-sum = 0 # Keep track of the answer
-game = 1 # Keep track of game number
+sum = 0 # Keeps track of the answer
+game = 1 # Keeps track of game number
 
 for line in list_lines:
     x = clean_data(line)
