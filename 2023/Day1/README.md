@@ -26,9 +26,7 @@ Consider your entire calibration document. What is the sum of all of the calibra
 **Goal**: The same as part 1, but this time the number can also be spelled out.\
 E.g. "one" == 1.
 
-**Comlete description**: Your calculation isn't quite right. It looks like some of the digits are actually spelled out with letters: one, two, three, four, five, six, seven, eight, and nine also count as valid "digits".
-
-Equipped with this new information, you now need to find the real first and last digit on each line. For example:
+**Comlete description**: Your calculation isn't quite right. It looks like some of the digits are actually spelled out with letters: one, two, three, four, five, six, seven, eight, and nine also count as valid "digits". Equipped with this new information, you now need to find the real first and last digit on each line. For example:
 
 two1nine\
 eightwothree\
