@@ -1,4 +1,4 @@
-# Day 1
+# Day 1: Trebuchet?!
 
 ## Part 1
 **Goal**: Extracting the first digit and the last digit (in that order), from every row (= string) to form a single two-digit number.\
