@@ -5,5 +5,5 @@ Goals: extracting the first digit and the last digit (in that order), from every
 Then add up all the two-digit numbers. 
 
 ## Part 2
-Goal: the same as part 1, but this time the number can also be spelled out. 
+Goal: the same as part 1, but this time the number can also be spelled out. \
 E.g. one == 1.
