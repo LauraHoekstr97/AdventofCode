@@ -6,4 +6,4 @@ Then add up all the two-digit numbers.
 
 ## Part 2
 Goal: the same as part 1, but this time the number can also be spelled out. \
-E.g. one == 1.
+E.g. "one" == 1.
