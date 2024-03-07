@@ -1,5 +1,5 @@
 # AdventofCode
-My Advent of Code solutions.
+My Advent of Code solutions. - https://adventofcode.com/
 
 Every folder, per day, includes:
 * The code to solve the puzzle (main.py)
