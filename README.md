@@ -6,4 +6,4 @@ Every folder, per day, includes:
 * The input data (input.txt)
 * Description of the puzzle (README.md)
 
-*Be aware*: contains spoilers
+*Be aware!*: contains spoilers
