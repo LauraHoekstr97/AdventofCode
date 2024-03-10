@@ -1,4 +1,4 @@
-# Day 4 - Scratchcards - NOT SOLVED YET!
+# Day 5 - If You Give A Seed A Fertilizer - NOT SOLVED YET!
 
 ## Part 1
 **Goal**:
