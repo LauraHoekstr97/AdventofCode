@@ -9,7 +9,7 @@ for line in file1:
     list_lines.append(line)
 
 
-# Returns winning numbers and your numbers of a single card as a lists of integers.
+# Returns clean data 
 def clean_data(lines):
     lines = lines.strip()  # Removes \n
     clean = ' '.join(lines.split(' ')[2:])  # Removes card number.
