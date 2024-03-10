@@ -3,7 +3,7 @@ My Advent of Code solutions. - https://adventofcode.com/
 
 Every folder, per day, includes:
 * Description of the puzzle (README.md)
-* The code to solve the puzzle of that day (main.py)
+* The code to solve the puzzle (main.py)
 * The input data (input.txt)
 
 *Be aware!*: contains spoilers
