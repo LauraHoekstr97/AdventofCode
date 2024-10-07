@@ -1,5 +1,5 @@
 # AdventofCode
-My Advent of Code solutions
+My Advent of Code solutions/
 Advent of Code: https://adventofcode.com/
 
 Every folder, per day, includes:
