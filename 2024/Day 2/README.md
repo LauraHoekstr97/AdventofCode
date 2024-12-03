@@ -1,4 +1,4 @@
-# Day 2: Title to be entered
+# Day 2: Red-Nosed Reports
 
 ## Part 1
 **Goal**: \\
