@@ -1,4 +1,4 @@
-# Day 3: Title to be entered
+# Day 3: Mull It Over
 
 ## Part 1
 **Goal**: \\
